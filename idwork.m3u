@@ -24,8 +24,3 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
-#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA",IDTV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
