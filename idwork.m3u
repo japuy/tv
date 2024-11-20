@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png" group-title="TV INDONESIA",RCTI
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/c/c4/RCTI_2000.png/revision/latest?cb=20211229123251" group-title="TV INDONESIA",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/SCTV_On-Air_2005-2017.png/revision/latest/scale-to-width-down/250?cb=20231122142224" group-title="TV INDONESIA",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
@@ -10,3 +10,6 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="TV INDONESIA",ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" group-title="TV INDONESIA",NET TV
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
