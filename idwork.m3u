@@ -14,5 +14,5 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 #EXTINF:-1 tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA",Kompas TV
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="Berita",TVOne (INDIHOME)
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA",TV ONE
 https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/tvone-avc1_1500000=6-mp4a_96000=5.m3u8
