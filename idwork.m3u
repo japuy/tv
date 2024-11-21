@@ -78,6 +78,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 #EXTINF:-1 group-title="SPORT TV" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",SOCCER TV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+#EXTINF:-1 tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="SPORT TV",beIN Sports HD
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/31048/index.m3u8
 #EXTINF:-1 group-title="SPORT TV" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://tvshare.ottrast.com/iptv/SU2U2T2VQLFQ4Q/19202/index.m3u8
@@ -90,3 +92,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png", V Sport Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://tvshare.ottrast.com/iptv/SU2U2T2VQLFQ4Q/12074/index.m3u8
+#EXTINF:0 tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="SPORT TV",RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
