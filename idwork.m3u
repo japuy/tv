@@ -120,6 +120,15 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37422
 http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/264801.ts
 #EXTINF: -1 tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="MOVIES",Citra Drama
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="MOVIES",Dunia Sinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="MOVIES", IMC
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #EXTINF:-1 group-title="MOVIES" group-logo="" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png", HBO Signature
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/26597
 #EXTINF:-1 group-title="MOVIES" group-logo="" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png", HBO Hits 
@@ -159,3 +168,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="MOVIES",Galaxy Premium
 https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:0 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="MOVIES",One HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
