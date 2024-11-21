@@ -110,3 +110,13 @@ http://tvshare.ottrast.com/iptv/SU2U2T2VQLFQ4Q/19133/index.m3u8
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37422
+#EXTINF: -1 tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="MOVIES",Citra Drama
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+#EXTINF:-1 group-title="MOVIES" group-logo="" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png", HBO Signature
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/26597
+#EXTINF:-1 group-title="MOVIES" group-logo="" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png", HBO Hits 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/26596
+#EXTINF:-1 group-title="MOVIES" group-logo="" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png", HBO Family
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/26598
+#EXTINF:-1 group-title="MOVIES" group-logo="" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png", Cinemax
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
