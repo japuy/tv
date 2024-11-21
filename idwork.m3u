@@ -227,3 +227,10 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
 https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#EXTINF:-1 group-title="4. CARTOON" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",Aniplus 
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2.m3u8
+#EXTINF:-1 tvg-id="DuniaAnak.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="CARTOON",Dunia Anak TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/907.m3u8
+#EXTINF:-1 tvg-id="dreamwork" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="CARTOON",DreamWorks
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
