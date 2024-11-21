@@ -212,3 +212,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+#EXTINF:-1 group-title="CARTOON"  tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",FUN PLANET 
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
+#EXTINF:-1 tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" tvg-id="MyKidz.id" tvg-name="ID: My Kidz" group-title="CARTOON",My Kidz 
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/213.m3u8
+#EXTINF:0 group-title="CARTOON" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",Kids TV Global
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/8bdab347-30fe-4eea-a9bd-4b89b8ea462e/2.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="CARTOON",Cartoon Network 
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/680.m3u8
