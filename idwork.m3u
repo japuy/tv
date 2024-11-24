@@ -13,8 +13,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA",MNCTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=S2j11H%2FIuaQd%2BtrybOtWbYK9rDoSAbJyNqzAW1RHwN9KQiVDbFpVNNxgfZRujt%2BLpJJrCVbe%2B%2FobwLgUzYS5UOj2lbXRgFOOvc%2BJFShNnD0m7MMSfFGV1Zm7Kwp4KWMVFJfyW7XyLJqW%2Bp7XeBiFGkchcAbw3EBUupCC0pbpYhRDp0ddnXuud5hmkUhRmzVO24nuUr%2FSB9dILoclxYoXyaOyuARdPCgxG%2F52UaiYAxfLGe%2BwcwOMnzef2mHPMkVD||R{SSM}|
-#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA", GTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
