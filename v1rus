@@ -246,7 +246,7 @@ http://extraott.com/live/6945574629/7169628753/23930.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.id/logo/fightsports.png" group-title="SPORT TV",UFC SPORT
+#EXTINF:-1 tvg-logo="https://iptv.urfan.id/logo/fightsports.png" group-title="SPORT",UFC SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
