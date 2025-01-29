@@ -70,8 +70,6 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
-#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",SPORTSTAR 13
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 #EXTINF:-1 group-title="SPORT TV" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",SPORTSTAR 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -132,30 +130,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:0  group-title="MOVIES" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",ZEE BIOSKOP
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #http://103.167.167.5:8111/play/a01a/index.m3u8
-#EXTINF:-1 group-title="MOVIES" group-logo="" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png", HBO Signature
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/26597
-#EXTINF:-1 group-title="MOVIES" group-logo="" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png", HBO Hits 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/26596
-#EXTINF:-1 group-title="MOVIES" group-logo="" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png", HBO Family
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/26598
-#EXTINF:-1 group-title="MOVIES" group-logo="" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png", Cinemax
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",AXN HD
 https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-#EXTINF:-1 group-title="3. MOVIES" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",KIX TV 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8.ts
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",TVN HD
 https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="MOVIES",TVN MOVIES
@@ -181,7 +157,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",Rock Action
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
-#EXTINF:-1 group-title="3. MOVIES" tvg-id="mycinema.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",My Cinema HD
+#EXTINF:-1 group-title="MOVIES" tvg-id="mycinema.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",My Cinema HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -189,31 +165,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="MOVIES",Hits 
 https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-#EXTINF:0 tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="MOVIES",Celestial Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
-#EXTINF:0 tvg-id="CCM.hk" tvg-name="CCM" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="MOVIES",Celestial Clasic Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
-#EXTINF:-1 group-title="CARTOON"  tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",FUN PLANET 
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
-#EXTINF:-1 tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" tvg-id="MyKidz.id" tvg-name="ID: My Kidz" group-title="CARTOON",My Kidz 
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/213.m3u8
+
 #EXTINF:0 group-title="CARTOON" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",Kids TV Global
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/8bdab347-30fe-4eea-a9bd-4b89b8ea462e/2.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="CARTOON",Cartoon Network 
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/680.m3u8
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",Animax 
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png", Nickelodeon
-https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",Aniplus 
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2.m3u8
-#EXTINF:-1 tvg-id="DuniaAnak.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="CARTOON",Dunia Anak TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/907.m3u8
-#EXTINF:-1 tvg-id="dreamwork" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="CARTOON",DreamWorks
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
-#EXTINF:-1 group-title="CARTOON" tvg-id="PersianaJunior.fr" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",Horee! 
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14106.m3u8
+
