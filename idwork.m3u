@@ -27,7 +27,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews TV" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA", iNews TV
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews HD" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA", iNews HD
 ##https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="TVOne" group-title="TV INDONESIA" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png",TVONE HD
