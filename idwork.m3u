@@ -42,7 +42,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA",Nusantara TV
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA",Garuda TV
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -62,8 +62,6 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=1000
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA",Rajawali TV
-https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 #EXTINF:-1 tvg-id="TVKesehatan.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA",TV Kesehatan
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTINF:-1 tvg-id="SaktiTV.id" tvg-logo="https://e.ebilling.id:4432/img/logo/6854asnet.png" group-title="TV INDONESIA",Sakti TV
