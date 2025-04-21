@@ -191,15 +191,20 @@ http://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
 https://cempedak-cdn-fly.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd|Referer=https://www.visionplus.id
 
 
+#EXTINF:-1 type="" group-title="FILM INDONESIA UPDATE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0f/Poster_Home_Sweet_Loan.jpg",Home Sweet Loan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://drive.usercontent.google.com/download?id=1cBfaGXTy4MmYNbY1zPVEUOa42s64AEQM&export=download&authuser=0&confirm=t&uuid=6
 
 
-#EXTINF:-1 type="" group-title="FILM INDONESIA UPDATE" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/71Ep4SZe6TEyUe1dUW67icn3xbk.jpg",Saat Menghadap Tuhan (2024)
+#EXTINF:-1 type="" group-title="FILM INDONESIA UPDATE" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qO0mbZj4mJfxpWPbrAb1Zr6F2zW.jpg",Kupu-Kupu Kertas
+https://play.upns.xyz/hls/XHrSR67JJ4hHWM4ns1h9pA/ic/ghsd6sxi/c5rvnz/tt/master.m3u8|referer=https://play.upns.xyz/&origin=https://play.upns.xyz&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+https://s8i.innovativetechnode.cyou/ic/u5qvr/cf-master.txt?v=1743653147|referer=https://play.rpmplay.online/&origin=https://play.rpmplay.online&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+
+
+
+#EXTINF:-1 type="" group-title="FILM INDONESIA UPDATE" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/71Ep4SZe6TEyUe1dUW67icn3xbk.jpg",Saat Menghadap Tuhan
 https://skr.innovativetechnode.xyz/v4/us/8xgzr/cf-master.txt?v=1744812257|referer=https://playerx.rpmstream.online/&origin=https://playerx.rpmstream.online&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 https://sui.smartsolutionsforplayers.website/v4/us/jhekt/cf-master.txt?v=1744812257|referer=https://playerx.p2pstream.online/&origin=https://playerx.p2pstream.online&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
-
-#EXTINF:-1 type="" group-title="FILM INDONESIA UPDATE" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qO0mbZj4mJfxpWPbrAb1Zr6F2zW.jpg",Kupu-Kupu Kertas (2024)
-https://play.upns.xyz/hls/XHrSR67JJ4hHWM4ns1h9pA/ic/ghsd6sxi/c5rvnz/tt/master.m3u8|referer=https://play.upns.xyz/&origin=https://play.upns.xyz&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-https://s8i.innovativetechnode.cyou/ic/u5qvr/cf-master.txt?v=1743653147|referer=https://play.rpmplay.online/&origin=https://play.rpmplay.online&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
 
