@@ -86,6 +86,9 @@ https://op-group1-swiftservesd-1.dens.tv/s/s34/02.m3u8
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
+#EXTINF: -1 tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png" group-title="MOVIES",Zee Bioskop
+https://streaming.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png" group-title="MOVIES",Rock Entertainment
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -95,6 +98,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
+
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png",AXN
+https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png" group-title="MOVIES",TVN MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -148,6 +154,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
 
 #EXTINF:0 group-title="CARTOON" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png",MYKIDS TV
 http://khano.nng.cloudns.us/live/m3u8/Kids/d906ad24c354b91.m3u8
+
+#EXTINF:0 group-title="CARTOON" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+
+#EXTINF:0 group-title="CARTOON" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png",MENTARI
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
 
