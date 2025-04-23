@@ -100,6 +100,11 @@ https://op-group1-swiftservesd-1.dens.tv/s/s34/02.m3u8
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png" group-title="MOVIES",MAX STREAM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
 #EXTINF: -1 tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png" group-title="MOVIES",Zee Bioskop
 https://streaming.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
@@ -266,7 +271,8 @@ https://drive.usercontent.google.com/download?id=1bnMazp_JduOos1ME1azjGowFnnDFtX
 https://play.upns.xyz/hls/XHrSR67JJ4hHWM4ns1h9pA/ic/ghsd6sxi/c5rvnz/tt/master.m3u8|referer=https://play.upns.xyz/&origin=https://play.upns.xyz&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 https://s8i.innovativetechnode.cyou/ic/u5qvr/cf-master.txt?v=1743653147|referer=https://play.rpmplay.online/&origin=https://play.rpmplay.online&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
-
+#EXTINF:-1 type="" group-title="FILM INDONESIA UPDATE" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qO0mbZj4mJfxpWPbrAb1Zr6F2zW.jpg",KANG MAK
+https://www.googleapis.com/drive/v3/files/13A1pFBzJDUDHhBDofpTa475Fn6ZZYagI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 type="" group-title="FILM INDONESIA UPDATE" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/71Ep4SZe6TEyUe1dUW67icn3xbk.jpg",Saat Menghadap Tuhan
 https://skr.innovativetechnode.xyz/v4/us/8xgzr/cf-master.txt?v=1744812257|referer=https://playerx.rpmstream.online/&origin=https://playerx.rpmstream.online&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
