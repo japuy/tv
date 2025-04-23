@@ -116,6 +116,18 @@ https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
 #EXTINF:0 group-title="MOVIES" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png",AXN
 https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd
 
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png",Galaxy
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png",Galaxy Premium
+https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png" group-title="MOVIES",TVN MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
@@ -183,6 +195,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
 #EXTINF:0 group-title="CARTOON" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png",MENTARI
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:0 group-title="CARTOON" tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png",MOONBUG
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd
 
 
 
