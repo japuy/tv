@@ -1,6 +1,4 @@
-header("Location: https://youtube.com");
-die();
-
+<h4>
 #EXTINF:-1 tvg-logo="https://e.ebilling.id:2096/img/logo/6854asnet.png" group-title="TV INDONESIA",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -340,3 +338,4 @@ https://drive.usercontent.google.com/download?id=1I8C0TwqhwTLd15RrymHuBk0Gu17R_A
 #EXTINF:-1 type="" group-title="Bidaah (WALID)" tvg-logo="https://shorturl.at/V52u7",Bidaah (WALID) Episode 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://drive.usercontent.google.com/download?id=1EVCi0tq73Cz46vaOjcRNoRtSl2H1Z9_L&export=download&authuser=0&confirm=t&uuid=6
+</h4>
